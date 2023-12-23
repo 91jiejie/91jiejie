@@ -1,15 +1,7 @@
 
 # **91姐姐**  地址发布页
 
-- 👋 当前最新地址：[http://91jiejie.xyz](http://91jiejie.xyz)
-
-- 👀 备用地址：[http://591jiejie.com](http://591jiejie.com)
-  
-- 🌱 官方twitter账号：[https://twitter.com/x91jiejie](https://twitter.com/x91jiejie)
-  
-- 💞️ 官方TG频道： [https://t.me/+a0j0UqnZ0nMwMDhk](https://t.me/+a0j0UqnZ0nMwMDhk)
-
-- ⌚️ 更新时间：2023-11-09
+- 👋 在这里：[https://91jiejie.github.io/](https://91jiejie.github.io/)
 
 
 <!---
